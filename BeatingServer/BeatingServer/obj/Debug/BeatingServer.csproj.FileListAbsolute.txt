@@ -1,0 +1,11 @@
+E:\УчЙоба\Maga\Диплом\BeatingServer\BeatingServer\bin\Debug\BeatingServer.exe.config
+E:\УчЙоба\Maga\Диплом\BeatingServer\BeatingServer\bin\Debug\BeatingServer.exe
+E:\УчЙоба\Maga\Диплом\BeatingServer\BeatingServer\bin\Debug\BeatingServer.pdb
+E:\УчЙоба\Maga\Диплом\BeatingServer\BeatingServer\obj\Debug\BeatingServer.csprojAssemblyReference.cache
+E:\УчЙоба\Maga\Диплом\BeatingServer\BeatingServer\obj\Debug\BeatingServer.Form1.resources
+E:\УчЙоба\Maga\Диплом\BeatingServer\BeatingServer\obj\Debug\BeatingServer.Properties.Resources.resources
+E:\УчЙоба\Maga\Диплом\BeatingServer\BeatingServer\obj\Debug\BeatingServer.csproj.GenerateResource.cache
+E:\УчЙоба\Maga\Диплом\BeatingServer\BeatingServer\obj\Debug\BeatingServer.csproj.CoreCompileInputs.cache
+E:\УчЙоба\Maga\Диплом\BeatingServer\BeatingServer\obj\Debug\BeatingServer.exe
+E:\УчЙоба\Maga\Диплом\BeatingServer\BeatingServer\obj\Debug\BeatingServer.pdb
+E:\УчЙоба\Maga\Диплом\BeatingServer\BeatingServer\obj\Debug\BeatingServer.StatsForm.resources
